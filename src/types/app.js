@@ -1,0 +1,3 @@
+export const SET_MESSAGE = 'SET_MESSAGE';
+export const CHANGE_PERSONS = 'CHANGE_PERSONS';
+export const CHANGE_LOADED = 'CHANGE_LOADED';
